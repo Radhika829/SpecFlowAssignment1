@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\Phase4\SpecAss1\SpecAss1\obj\Debug\net6.0\SpecAss1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Phase4\SpecAss1\SpecAss1\obj\Debug\net6.0\SpecAss1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Phase4\SpecAss1\SpecAss1\obj\Debug\net6.0\SpecAss1.AssemblyInfo.cs
+C:\Users\HP\Documents\Phase4\SpecAss1\SpecAss1\obj\Debug\net6.0\SpecAss1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Phase4\SpecAss1\SpecAss1\bin\Debug\net6.0\SpecAss1.deps.json
+C:\Users\HP\Documents\Phase4\SpecAss1\SpecAss1\bin\Debug\net6.0\SpecAss1.dll
+C:\Users\HP\Documents\Phase4\SpecAss1\SpecAss1\bin\Debug\net6.0\SpecAss1.pdb
+C:\Users\HP\Documents\Phase4\SpecAss1\SpecAss1\obj\Debug\net6.0\SpecAss1.dll
+C:\Users\HP\Documents\Phase4\SpecAss1\SpecAss1\obj\Debug\net6.0\refint\SpecAss1.dll
+C:\Users\HP\Documents\Phase4\SpecAss1\SpecAss1\obj\Debug\net6.0\SpecAss1.pdb
+C:\Users\HP\Documents\Phase4\SpecAss1\SpecAss1\obj\Debug\net6.0\ref\SpecAss1.dll
